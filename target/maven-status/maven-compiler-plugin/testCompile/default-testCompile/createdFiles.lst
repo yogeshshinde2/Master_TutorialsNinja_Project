@@ -1,0 +1,4 @@
+com\farmework\tests\SearchTest.class
+com\farmework\tests\UserRegisterationTest.class
+com\farmework\tests\LoginTest.class
+com\framework\base\Base.class

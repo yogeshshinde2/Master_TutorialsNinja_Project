@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-01T21:21:11 IST" name="Failed suite [FrameWork Test Suite]" finished-at="2024-11-01T21:21:19 IST" duration-ms="8435">
+    <groups>
+    </groups>
+    <test started-at="2024-11-01T21:21:11 IST" name="QALoginTest(failed)" finished-at="2024-11-01T21:21:19 IST" duration-ms="8435">
+      <class name="com.farmework.tests.UserRegisterationTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.farmework.tests.UserRegisterationTest@2ce6c6ec]" started-at="2024-11-01T21:21:08 IST" name="setUp" finished-at="2024-11-01T21:21:11 IST" duration-ms="3201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="navigateTORegisterPage()[pri:0, instance:com.farmework.tests.UserRegisterationTest@2ce6c6ec]" started-at="2024-11-01T21:21:11 IST" name="navigateTORegisterPage" finished-at="2024-11-01T21:21:12 IST" duration-ms="1186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateTORegisterPage -->
+        <test-method signature="registerWithAllMandatoryDetailsPropertyFileData()[pri:4, instance:com.farmework.tests.UserRegisterationTest@2ce6c6ec]" started-at="2024-11-01T21:21:12 IST" name="registerWithAllMandatoryDetailsPropertyFileData" finished-at="2024-11-01T21:21:14 IST" duration-ms="1557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerWithAllMandatoryDetailsPropertyFileData -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.farmework.tests.UserRegisterationTest@2ce6c6ec]" started-at="2024-11-01T21:21:14 IST" name="logout" finished-at="2024-11-01T21:21:19 IST" duration-ms="5628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:com.farmework.tests.UserRegisterationTest@2ce6c6ec]" started-at="2024-11-01T21:21:20 IST" name="quitBrowser" finished-at="2024-11-01T21:21:21 IST" duration-ms="495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- com.farmework.tests.UserRegisterationTest -->
+    </test> <!-- QALoginTest(failed) -->
+  </suite> <!-- Failed suite [FrameWork Test Suite] -->
+</testng-results>
